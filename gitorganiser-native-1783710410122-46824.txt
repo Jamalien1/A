@@ -1,0 +1,3 @@
+GitOrganiser native merge fixture one 1783710410122-46824
+GitOrganiser native merge fixture two 1783710410122-46824
+GitOrganiser native merge fixture three 1783710410122-46824
