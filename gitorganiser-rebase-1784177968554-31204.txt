@@ -1,1 +1,2 @@
 Add first rebase strategy fixture 1784177968554-31204
+Add second rebase strategy fixture 1784177968554-31204
